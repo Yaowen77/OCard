@@ -1,0 +1,6 @@
+D:\Work\OCard\OCard\bin\Debug\OCard.exe
+D:\Work\OCard\OCard\bin\Debug\OCard.pdb
+D:\Work\OCard\OCard\obj\Debug\OCard.csprojAssemblyReference.cache
+D:\Work\OCard\OCard\obj\Debug\OCard.csproj.CoreCompileInputs.cache
+D:\Work\OCard\OCard\obj\Debug\OCard.exe
+D:\Work\OCard\OCard\obj\Debug\OCard.pdb

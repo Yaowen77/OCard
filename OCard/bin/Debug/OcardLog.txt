@@ -1,0 +1,60 @@
+2019/10/08 11:23:49 程式開啟
+2019/10/08 11:23:49 Input:key=ocard_pos&secret=d8db49fe7770c8d84f50e6e07cc457a3&for_web=0
+2019/10/08 11:23:50 Oupt:{"code":500,"data":{"uid":894,"token":"bFAD6kUnwVy8XsI4hFDb","_store":1,"name":"admin"}}
+2019/10/08 11:23:50 程式關閉
+2019/10/08 11:23:50 --------------------------------------------------------------------------
+2019/10/08 11:45:54 程式開啟
+2019/10/08 11:45:54 Input:key=ocard_pos&secret=d8db49fe7770c8d84f50e6e07cc457a3&for_web=0
+2019/10/08 11:45:55 Oupt:{"code":500,"data":{"uid":894,"token":"KNqxbM5ryxDoBb4Y67UT","_store":1,"name":"admin"}}
+2019/10/08 11:45:55 程式關閉
+2019/10/08 11:45:55 --------------------------------------------------------------------------
+2019/10/08 15:25:52 程式開啟
+2019/10/08 15:25:53 Input:key=ocard_pos&secret=d8db49fe7770c8d84f50e6e07cc457a3&for_web=0
+2019/10/08 15:25:55 Oupt:{"code":500,"data":{"uid":894,"token":"f8ehCSHokAHCfLoHK10z","_store":1,"name":"admin"}}
+2019/10/08 15:25:56 程式關閉
+2019/10/08 15:25:56 --------------------------------------------------------------------------
+2019/10/08 15:26:08 程式開啟
+2019/10/08 15:26:08 Input:key=ocard_pos&secret=d8db49fe7770c8d84f50e6e07cc457a3&for_web=0
+2019/10/08 15:26:09 Oupt:{"code":500,"data":{"uid":894,"token":"R0rag0gKWLMvdBm989f9","_store":1,"name":"admin"}}
+2019/10/08 15:26:09 程式關閉
+2019/10/08 15:26:09 --------------------------------------------------------------------------
+2019/10/08 17:14:25 程式開啟
+2019/10/08 17:14:29 Input:key=ocard_pos&secret=d8db49fe7770c8d84f50e6e07cc457a3&for_web=0
+2019/10/08 17:14:45 Oupt:
+2019/10/08 17:14:48 程式關閉
+2019/10/08 17:15:57 程式開啟
+2019/10/08 17:15:57 Input:key=ocard_pos&secret=d8db49fe7770c8d84f50e6e07cc457a3&for_web=0
+2019/10/08 17:15:59 Oupt:
+2019/10/08 17:16:00 程式關閉
+2019/10/08 17:16:00 --------------------------------------------------------------------------
+2019/10/08 19:01:12 程式開啟
+2019/10/08 19:01:15 Input:key=ocard_pos&secret=d8db49fe7770c8d84f50e6e07cc457a3&for_web=0
+2019/10/08 19:01:17 Oupt:
+2019/10/08 19:01:17 程式關閉
+2019/10/08 19:01:17 --------------------------------------------------------------------------
+2019/10/09 10:18:57 程式開啟
+2019/10/09 10:18:59 Input:key=ocard_pos&secret=d8db49fe7770c8d84f50e6e07cc457a3&for_web=0
+2019/10/09 10:19:23 Oupt:
+2019/10/09 10:19:27 程式關閉
+2019/10/09 10:19:30 --------------------------------------------------------------------------
+2019/10/09 10:19:54 程式開啟
+2019/10/09 10:19:56 Input:key=ocard_pos&secret=d8db49fe7770c8d84f50e6e07cc457a3&for_web=0
+2019/10/09 10:20:24 程式開啟
+2019/10/09 10:20:25 Input:key=ocard_pos&secret=d8db49fe7770c8d84f50e6e07cc457a3&for_web=0
+2019/10/09 10:20:39 Oupt:{"code":500,"data":{"uid":894,"token":"61H404IL3ye0imZcFL5o","_store":1,"name":"admin"}}
+2019/10/09 10:21:17 程式開啟
+2019/10/09 10:21:18 Input:key=ocard_pos&secret=d8db49fe7770c8d84f50e6e07cc457a3&for_web=0
+2019/10/09 10:21:29 System.Net.WebException: 作業逾時
+   於 System.Net.HttpWebRequest.GetRequestStream(TransportContext& context)
+   於 System.Net.HttpWebRequest.GetRequestStream()
+   於 OCard.Program.Main(String[] args) 於 D:\Work\OCard\OCard\Program.cs: 行 58
+2019/10/09 10:21:36 System.Net.WebException: 作業逾時
+   於 System.Net.HttpWebRequest.GetRequestStream(TransportContext& context)
+   於 System.Net.HttpWebRequest.GetRequestStream()
+   於 OCard.Program.Main(String[] args) 於 D:\Work\OCard\OCard\Program.cs: 行 58
+2019/10/09 10:21:46 System.Net.WebException: 作業逾時
+   於 System.Net.HttpWebRequest.GetRequestStream(TransportContext& context)
+   於 System.Net.HttpWebRequest.GetRequestStream()
+   於 OCard.Program.Main(String[] args) 於 D:\Work\OCard\OCard\Program.cs: 行 58
+2019/10/09 12:12:08 程式開啟
+2019/10/09 12:12:24 Input:uid=894&token=LLr6OunKD509Lc8q5WoS&trans_serial=A19100900010101&cell=0975780638&spend=45

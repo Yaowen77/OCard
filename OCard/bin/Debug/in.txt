@@ -1,0 +1,2 @@
+https://api.ocard.co/api2/recoverTrans
+uid=894&token=9zBrzjK9LqAjAqSLmvaL&trans_serial=A20021700030101

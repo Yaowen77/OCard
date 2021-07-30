@@ -1,0 +1,1 @@
+{"code":500,"data":[{"type":"point_give","point":-2,"total_point":"291"}]}
